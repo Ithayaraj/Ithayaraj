@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Ithayaraj/Ithayaraj/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Inpalagan Ithayaraj</h1>
 <h3 align="center">A passionate Full Stack Developer from Srilanka</h3>
 
