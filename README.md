@@ -1,5 +1,5 @@
 ![logo](https://github.com/Ithayaraj/Ithayaraj/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Inpalagan Ithayaraj</h1>
+<h1 align="center">Hi 👋, I'm Ithayaraj Inpalagan </h1>
 <h3 align="center">A passionate Full Stack Developer from Srilanka</h3>
 
 <img align="right" alt="codding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
